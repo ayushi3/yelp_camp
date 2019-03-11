@@ -183,3 +183,6 @@ SHOW    /dogs/:id   GET     Shows info about one dog
 
 
 # Deploying the app in heroku
+
+
+# Including Environment Variables
